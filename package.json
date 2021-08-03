@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "scss": "node-sass -w src/styles/style.scss --output-style expanded  built/css/style.css"
+    "scss": "node-sass -w src/styles/style.scss --output-style compressed  built/css/style.css"
   },
   "keywords": [],
   "author": "",
