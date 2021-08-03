@@ -157,6 +157,7 @@ $breakpoints: (
   }
   .nav__list {
     @include flexible(space-between);
+    padding-left: 0;
 
     list-style-type: none;
 
@@ -459,6 +460,7 @@ $breakpoints: (
   }
   .social__list {
     @include flexible(space-between);
+    padding-left: 0;
 
     list-style: none;
 
